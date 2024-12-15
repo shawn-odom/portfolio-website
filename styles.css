@@ -15,8 +15,9 @@ header
     font-family: Montserrat, sans-serif;
 }
 header p {
-    font-size: 55px;  
-    font-family: 'Montserrat', sans-serif;  
+    font-size: 42px;  
+    font-family: Montserrat, sans-serif;  
+    font-weight: bold;
 }
 header h1{
     font-size: 48px;
